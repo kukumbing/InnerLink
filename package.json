@@ -1,0 +1,19 @@
+{
+  "name": "innerlink",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kukumbing/InnerLink.git"
+  },
+  "author": "Vu Minh Quy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kukumbing/InnerLink/issues"
+  },
+  "homepage": "https://github.com/kukumbing/InnerLink#readme"
+}
